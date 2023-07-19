@@ -60,3 +60,7 @@ Blockchain and Web3 Development.
     • NFT minting, buying, and selling logic
 
 Feel free to explore this repository to see my progress, the projects I've built, and the skills I've acquired. I'm always open to feedback and collaboration, so don't hesitate to reach out or contribute. Happy coding!
+
+NOTE!!!!
+
+I haven't finished the course yet, but I'm curretly still updating it everysingle time I do a module.
