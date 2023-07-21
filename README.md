@@ -63,4 +63,4 @@ Feel free to explore this repository to see my progress, the projects I've built
 
 NOTE!!!!
 
-I haven't finished the course yet, but I'm curretly still updating it everysingle time I do a module.
+I haven't finished the course yet, but I'm currently still updating it every single time I do a module.
